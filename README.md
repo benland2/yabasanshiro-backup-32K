@@ -1,6 +1,6 @@
 # yabasanshiro-backup-32K
 
-Some games of Saturn doesn't work with internal memory card of Yaba Sanshiro expanded to 8MB.
+Some games of Sega Saturn doesn't work with the emulator Yaba Sanshiro and the internal memory card of expanded to 8MB.
 Unfortunately, the core yabasanshiro-libretro can't disable this feature.
 Then I generated a file "backup.bin" that simulates less than 32K free space.
 The original file used for internal memory in your Yaba Sanshiro folder should be replaced with this file.
